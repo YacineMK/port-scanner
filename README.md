@@ -1,6 +1,4 @@
-# port-scanner
 
-This Python-based port scanner is a command-line utility designed to scan a target host for open ports.
 
 ███╗   ██╗ ██████╗ ██████╗ ██╗ ██╗██████╗ ███████╗
 ████╗  ██║██╔══██╗██╔══██╗██║ ██║██╔══██╗██╔════╝
